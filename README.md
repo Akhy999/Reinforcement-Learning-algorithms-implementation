@@ -17,4 +17,4 @@ $ python deep_q_learning.py <env>
 #### env = acrobot or cartpole
 $ python n_step_semi_gradient_sarsa.py <env>
 
-# Please refer [Project Report](cs687_project_report.pdf) for details about the algorithms and their performance
+# Please refer [Project Report](RL_project/cs687_project_report.pdf) for details about the algorithms and their performance
